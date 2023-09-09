@@ -18,6 +18,7 @@ Txy Sxm Sxk Wjt
 - ArmYaw_Motor(RS485):瓴控MG4005
 <br/> 
 <br/> 
+
 - PlatformL_Encoder(CAN):维特智能JY_ME02
 - PlatformR_Encoder(CAN):维特智能JY_ME02
 - SkyPitchL_Motor(CAN):大疆GM6020
@@ -26,6 +27,7 @@ Txy Sxm Sxk Wjt
 - PlatformR_Motor(CAN):大疆GM3508
 <br/> 
 <br/> 
+
 - ArmPitchL_Motor(CAN):达妙DMJ4310
 - ArmPitchR_Motor(CAN):达妙DMJ4310
 - ArmRoll_Motor(CAN):大疆GM2006
