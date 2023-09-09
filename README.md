@@ -3,9 +3,11 @@
 
 2023 RoboMater 工程 东南大学3SE战队
  
-![Alt text](Cache_-2baac948a6548be3..jpg)
+![Alt text](Cache_-2baac948a6548be3..jpg#pic_center)
 
-![Alt text](IMG_20230805_184139.jpg)
+![Alt text](IMG_20230805_184139.jpg#pic_center)
+
+<iframe src="//player.bilibili.com/player.html?aid=957486601&bvid=BV1Fp4y1n7fM&cid=1238839479&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
 ## 参与贡献
 Txy Sxm Sxk Wjt
