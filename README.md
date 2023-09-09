@@ -10,7 +10,8 @@
 <img src="IMG_20230805_184139.jpg"/>
 </div>
 
-[![](https://bb-embed.herokuapp.com/embed?v=BV1jS4y1w7SW)](https://player.bilibili.com/player.html?aid=957486601&bvid=BV1Fp4y1n7fM&cid=1238839479&p=1)
+## 视频
+https://player.bilibili.com/player.html?aid=957486601&bvid=BV1Fp4y1n7fM&cid=1238839479&p=1
 
 ## 参与贡献
 Txy Sxm Sxk Wjt
@@ -21,14 +22,16 @@ Txy Sxm Sxk Wjt
 - Gimbal_Gyro(Uart):维特智能WT931
 - Gimbal_Motor(RS485):海泰DMR4315
 - ArmYaw_Motor(RS485):瓴控MG4005  
-<br/> 
+<br/>
+
 * PlatformL_Encoder(CAN):维特智能JY_ME02
 * PlatformR_Encoder(CAN):维特智能JY_ME02
 * SkyPitchL_Motor(CAN):大疆GM6020
 * SkyPitchR_Motor(CAN):大疆GM6020
 * PlatformL_Motor(CAN):大疆GM3508
 * PlatformR_Motor(CAN):大疆GM3508  
-<br/> 
+<br/>
+
 + ArmPitchL_Motor(CAN):达妙DMJ4310
 + ArmPitchR_Motor(CAN):达妙DMJ4310
 + ArmRoll_Motor(CAN):大疆GM2006
