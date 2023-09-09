@@ -2,12 +2,15 @@
 2023 RM Engineering Team 3SE Southeast University 
 
 2023 RoboMater 工程 东南大学3SE战队
- 
-![Alt text](Cache_-2baac948a6548be3..jpg#pic_center)
 
-![Alt text](IMG_20230805_184139.jpg#pic_center)
+ <div align=center>
+<img src="Cache_-2baac948a6548be3..jpg"/>
+</div>
+ <div align=center>
+<img src="IMG_20230805_184139.jpg"/>
+</div>
 
-<iframe src="//player.bilibili.com/player.html?aid=957486601&bvid=BV1Fp4y1n7fM&cid=1238839479&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+[![](https://bb-embed.herokuapp.com/embed?v=BV1jS4y1w7SW)](https://player.bilibili.com/player.html?aid=957486601&bvid=BV1Fp4y1n7fM&cid=1238839479&p=1)
 
 ## 参与贡献
 Txy Sxm Sxk Wjt
@@ -17,22 +20,20 @@ Txy Sxm Sxk Wjt
 - 双板通信(Uart)
 - Gimbal_Gyro(Uart):维特智能WT931
 - Gimbal_Motor(RS485):海泰DMR4315
-- ArmYaw_Motor(RS485):瓴控MG4005
-<br/> 
+- ArmYaw_Motor(RS485):瓴控MG4005  
 <br/> 
 * PlatformL_Encoder(CAN):维特智能JY_ME02
 * PlatformR_Encoder(CAN):维特智能JY_ME02
 * SkyPitchL_Motor(CAN):大疆GM6020
 * SkyPitchR_Motor(CAN):大疆GM6020
 * PlatformL_Motor(CAN):大疆GM3508
-* PlatformR_Motor(CAN):大疆GM3508
+* PlatformR_Motor(CAN):大疆GM3508  
 <br/> 
-<br/> 
-* ArmPitchL_Motor(CAN):达妙DMJ4310
-* ArmPitchR_Motor(CAN):达妙DMJ4310
-* ArmRoll_Motor(CAN):大疆GM2006
-* SkyForwardL_Motor(CAN):大疆GM2006
-* SkyForwardR_Motor(CAN):大疆GM2006
++ ArmPitchL_Motor(CAN):达妙DMJ4310
++ ArmPitchR_Motor(CAN):达妙DMJ4310
++ ArmRoll_Motor(CAN):大疆GM2006
++ SkyForwardL_Motor(CAN):大疆GM2006
++ SkyForwardR_Motor(CAN):大疆GM2006
 
 #### 从板：STM32F407IGH6TR(C板)
 
