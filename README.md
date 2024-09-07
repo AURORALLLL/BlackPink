@@ -1,7 +1,7 @@
 # BlackPink 粉墨
 2023 RM Engineering Team 3SE Southeast University 
 
-2023 RoboMater 工程 东南大学3SE战队
+2023 RoboMaster 工程 东南大学3SE战队
 
  <div align=center>
 <img src="Cache_-2baac948a6548be3..jpg"/>
